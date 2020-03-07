@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Presentation\Nop.Web\Plugins\Payments.Paytm\plugin.json
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Presentation\Nop.Web\Plugins\Payments.Paytm\Views\Configure.cshtml
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Presentation\Nop.Web\Plugins\Payments.Paytm\Views\PaymentInfo.cshtml
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Presentation\Nop.Web\Plugins\Payments.Paytm\Views\_ViewImports.cshtml
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Presentation\Nop.Web\Plugins\Payments.Paytm\logo.jpg
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Presentation\Nop.Web\Plugins\Payments.Paytm\Nop.Plugin.Payments.Paytm.deps.json
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Presentation\Nop.Web\Plugins\Payments.Paytm\Nop.Plugin.Payments.Paytm.dll
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Presentation\Nop.Web\Plugins\Payments.Paytm\Nop.Plugin.Payments.Paytm.pdb
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Plugins\Nop.Plugin.Payments.Paytm\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Paytm.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Plugins\Nop.Plugin.Payments.Paytm\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Paytm.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Plugins\Nop.Plugin.Payments.Paytm\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Paytm.AssemblyInfo.cs
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Plugins\Nop.Plugin.Payments.Paytm\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Paytm.csproj.CopyComplete
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Plugins\Nop.Plugin.Payments.Paytm\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Paytm.dll
+C:\Users\HP\Desktop\Develop\Nop4.2\src\Plugins\Nop.Plugin.Payments.Paytm\obj\Debug\netcoreapp2.2\Nop.Plugin.Payments.Paytm.pdb
