@@ -7,4 +7,4 @@
 6. Go to admin > configuration > Payment > Payment method > paytm
 7. Fill in the details here.
 
-This plugin is updated  to Nop version 4.2 from [official Paytm Plugin for NopCommerce](https://github.com/Paytm-Payments/Paytm-NopCommerce)
+This plugin is updated  to Nop version 4.2 from [official Paytm Plugin for NopCommerce](https://github.com/paytm/Paytm_nopCommerce_Plugin)
